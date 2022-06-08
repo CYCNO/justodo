@@ -1,2 +1,2 @@
 # justodo
-You can use the website [here](https://justodo.tk/)
+You can see the website [here](https://justodo.tk/)
